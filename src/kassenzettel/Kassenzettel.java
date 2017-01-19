@@ -122,6 +122,7 @@ public class Kassenzettel extends Application {
         String amount = choiceBox.getValue() ;
         System.out.println(amount);
     }
+    //zu hause
     
     
     
